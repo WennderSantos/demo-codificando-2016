@@ -4,10 +4,13 @@ Demo mostrando o plugin de camera do cordova para android e windows phone no Cod
 Para testar adicione as plataformas e o plugin de camera
 
 Plataformas
+
 cordova platform add android
+
 cordova platform add wp8
 
 Plugin
+
 cordova plugin add cordova-plugin-camera
 
 Divirta-se!
